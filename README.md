@@ -1,4 +1,4 @@
-# 🙋‍♂️ Hey world, I'm aikonre!
+# 🙋‍♂️ Hey world, I'm aikon! 
 
 👾 Not an alien, just a human who enjoys typing `npm run dev` like it's a magic spell.  
 ⚙️ Currently trying to be a frontliner in the Web3 world, though I still mess up `git push` sometimes 😅  
