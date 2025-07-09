@@ -10,7 +10,7 @@
 
 ### 🔹 [ZTC Wallet Dashboard](https://github.com/aikonre/ztc-wallet-dashboard)
 A sleek token balance checker built using **React**, **Vite**, and **Tailwind CSS**.  
-Simulates wallet token balances using mock data, designed for ZenChain Builder Program.
+Simulates wallet token balances using mock data.
 
 ### 🔹 [Token Balance Dashboard (Prototype)](https://github.com/aikonre/token-balance-dashboard)
 My first take on a mock token checker using basic React setup.  
