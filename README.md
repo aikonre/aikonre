@@ -1,16 +1,36 @@
-## Hi there 👋
+# 🙋‍♂️ Hey world, I'm aikonre!
 
-<!--
-**aikonre/aikonre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👾 Not an alien, just a human who enjoys typing `npm run dev` like it's a magic spell.  
+⚙️ Currently trying to be a frontliner in the Web3 world, though I still mess up `git push` sometimes 😅  
+🚀 My latest mission? A token dashboard that *hopefully* makes empty wallets look cooler 😎
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Project
+
+- [🔗 Token Balance Dashboard](https://github.com/aikonre/token-balance-dashboard)  
+  A clean interface for checking token balances, built with React + Tailwind CSS.
+
+---
+
+## 🛠️ Tech Stack
+
+- Frontend: `React`, `Tailwind CSS`, `Vite`
+- Blockchain: `Web3.js`, `Ethers.js`
+- Tools: `Git`, `VSCode`, `GitHub`, `Figma`
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: [@aikonre](https://github.com/aikonre)
+- Discord: aikon_re
+- Twitter/X: [`@aikonre`](https://twitter.com/aikonre)
+
+---
+
+## 💬 Quote
+
+> _"Build it. Ship it. Learn fast."_  
+>  someone building from their bedroom 😎
+
