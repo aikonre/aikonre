@@ -16,6 +16,7 @@ Simulates wallet token balances using mock data.
 My first take on a mock token checker using basic React setup.  
 This project laid the foundation for the upgraded ZTC Wallet Dashboard.
 
+### 🔹 [NFT Museum](https://github.com/aikonre/nft-museum)
 ---
 
 ## 🛠️ Tech Stack
