@@ -8,7 +8,11 @@
 
 ## 🚀 Featured Projects
 
-### 🔹 [ZTC Wallet Dashboard](https://github.com/aikonre/ztc-wallet-dashboard)
+### 🔹 [Zenchain XP Calculator](https://github.com/aikonre/ztc-wallet-dashboard)
+A simple time-based XP calculator for ZenChain users.
+Estimate how long it takes to level up based on your current level and daily active time.
+
+### 🔹 [ZTC Wallet Dashboard](https://github.com/aikonre/zenchain-xp-calculator)
 A sleek token balance checker built using **React**, **Vite**, and **Tailwind CSS**.  
 Simulates wallet token balances using mock data.
 
